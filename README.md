@@ -79,4 +79,4 @@ I’m actively sharpening my backend engineering skills, learning modern archite
 
 ## 🤝 Open to Opportunities
 
-I’m exploring **Full-Stack** and **Frontend Developer** roles where I can work on meaningful products, write clean and modern code, and grow alongside a strong engineering team.
+I’m exploring **Full-Stack** roles where I can work on meaningful products, write clean and modern code, and grow alongside a strong engineering team.
